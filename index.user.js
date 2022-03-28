@@ -5,7 +5,7 @@
 // @description  在当前tab打开链接
 // @author       xue1206
 // @match        *://*.bilibili.com/*
-// @license      GPLv3 License
+// @license      MIT License
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
 // ==/UserScript==
 
